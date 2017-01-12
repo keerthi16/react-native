@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_dd52af01f3b06dc04e0c1eabeb01301ae1a66377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_58d6cfb1a0acee72b80e3cdbde685a9039f8dd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_1dae3cd354296b01ec444690c2e59d20353754ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_512edf83debd07b826f70cd35f242473708f97b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_ae1e9c1a9943e0c36e052468d1cf0339fca73434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_88971a41b5b08f3e0194d9d70026d28fbc42aebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_fbac38651919d3697d7a4755271e3693c1eef0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_ad5b29a428ab1277b60f02caf466e42d7e073f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_63186e11ae0a3d5a5a983accc1d7d28455b5a88f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.40.0_f4cddce6cd032c1deb14f1579a97a976e2a8ffd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_fdda5959265e53d209aea303cbf522484dad79cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_cf3a793c828daa6f999f55f6ea8c4cd477092fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_a58a2499404b66e9e0b0d16b7829adbd59b2568d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_0766a909b7d49dc6c55fe90d4f32ed8200377ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_48971ffeff896760202cbbfcdd6db0e8987d0541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6cacc14bbf5141e0cec8ae5d0fac7637914c0622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_2668beb860771db9499dba2e054815bec87b1d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_f71d581a7c102fabd20e6d58dbb8689e5e03a44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_bbf4e14d683d92edb17cfb133de6f1ba147caf13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_9d917cad98d7bd13b4a451bd6215c0e769f03775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_e4af200b6fbe3388366fdfc2d2da73165cc25685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keerthiniranjan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/keerthiniranjan/KiKe-Projects/DSSReactNative/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_2186a27666110c4155c43b41dbba8efa2797cc9f.jar" />
+    </item>
+
+</items>
